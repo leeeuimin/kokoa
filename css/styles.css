@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,400&display=swap");
+@import "reset.css";
+@import "components/status-bar.css";
+@import "variables.css";
+
+/* 주석처리 */
+@import "screen/login.css";
+@import "components/nav-bar.css";
+body {
+  font-family: "Open Sans", sans-serif;
+}
